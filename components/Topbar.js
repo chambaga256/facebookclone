@@ -133,7 +133,7 @@ const Topbar = () => {
        </TouchableOpacity>
        <TouchableOpacity className="bg-gray-400 items-center p-2 px-4 rounded-md">
         <Text className="text-white">
-          Add friend
+          Remove
         </Text>
        </TouchableOpacity>
       </View>
@@ -164,7 +164,7 @@ const Topbar = () => {
        </TouchableOpacity>
        <TouchableOpacity className="bg-gray-400 items-center p-2 px-4 rounded-md">
         <Text className="text-white">
-          Add friend
+          Remove
         </Text>
        </TouchableOpacity>
       </View>
@@ -195,7 +195,7 @@ const Topbar = () => {
        </TouchableOpacity>
        <TouchableOpacity className="bg-gray-400 items-center p-2 px-4 rounded-md">
         <Text className="text-white">
-          Add friend
+          Remove
         </Text>
        </TouchableOpacity>
       </View>
