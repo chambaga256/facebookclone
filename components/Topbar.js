@@ -3,6 +3,10 @@ import React from 'react'
 import { ChartBarSquareIcon, ChartPieIcon, ChatBubbleOvalLeftEllipsisIcon, FilmIcon, MagnifyingGlassIcon, PlayCircleIcon, PlusCircleIcon, PresentationChartLineIcon, VideoCameraIcon, ViewfinderCircleIcon } from 'react-native-heroicons/outline'
 
 const Topbar = () => {
+  const numbers =[1,23,4,10]
+
+  // numbers.reduce((i,n)=> i+n,0)
+  // console.log(numbers)
   return (
     <View >
       < SafeAreaView className="flex-row items-center "> 
@@ -207,7 +211,7 @@ const Topbar = () => {
       </ScrollView>
       
       
-  
+   
     </View>
   )
 }
